@@ -9,7 +9,7 @@ This days I work on Cloud-Native for the most part anything built with and on to
 Here are some of the reosures I use, I selected the top ones.
 
 **Podcasts**
-- [Kubernetes Podcast](https://kubernetespodcast.com/)
+- [Kubernetes Podcast](https://kubernetespodcast.com/) :star:
 - [PodCTL](http://podcast.podctl.com/)
 - [AirHacks Java with Adam Bien](http://airhacks.fm/)
 - [The Podlets](https://thepodlets.io/)
@@ -26,7 +26,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [TGI Kubernetes (Every Friday 4PM EST)](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
 - [Red Hat Developers](https://www.youtube.com/channel/UC7noUdfWp-ukXUlAsJnSm-Q/videos?view=0&sort=dd&flow=grid)
 - [OpenShift](https://www.youtube.com/user/rhopenshift/videos?view=0&sort=dd&flow=grid)
-- [CNCF KubeCon 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien)
+- [CNCF KubeCon 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien):star:
 - [CNCF Servless Summit 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2OQP0DXXmtdIHNtfFSJqVAU)
 - [CNCF EnvoyCon Summit 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2OQP0DXXmtdIHNtfFSJqVAU)
 - [CNCF Observability Summit 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2OHQTTN_SjId-oFcQWag5lW)
@@ -36,7 +36,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [Mastering Distributing Tracing](https://learning.oreilly.com/library/view/mastering-distributed-tracing/9781788628464/)
 - [Software Engineering at Google (Feb 2020)](https://learning.oreilly.com/library/view/software-engineering-at/9781492082781)
 - [Kubernetes Operators (Jan 2020)](https://learning.oreilly.com/library/view/kubernetes-operators/9781492078234/)
-- [Kubernetes Best Practices (Nov 2019)](https://learning.oreilly.com/library/view/kubernetes-best-practices/9781492056461/)
+- [Kubernetes Best Practices (Nov 2019)](https://learning.oreilly.com/library/view/kubernetes-best-practices/9781492056461/):star:
 - [Kubernetes Up and Running, 2nd Edition (Oct 2019)](https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523/)
 - [Cloud Native](https://learning.oreilly.com/library/view/cloud-native/9781492053811/)
 - [Programming Kubernetes (Jul 2019)](https://learning.oreilly.com/library/view/programming-kubernetes/9781492047094/)
@@ -44,7 +44,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [Cloud Native DevOps with Kubernetes (Mar 2019)](https://learning.oreilly.com/library/view/cloud-native-devops/9781492040750/)
 
 **News Letters**
-- [KubeWeekly newsletter](https://kubeweekly.io/)
+- [KubeWeekly newsletter](https://kubeweekly.io/):star:
 - [Software Engineering Daily](https://us12.campaign-archive.com/home/?u=0e61a764c5cf33d9f3eff0749&id=846fac531b)
 - [Adam Bien](http://airhacks.news/)
 - [Serverless.Email](https://serverless.email/)
@@ -56,7 +56,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [OpenShift](https://twitter.com/openshift)
 - [Red Hat Developers](https://twitter.com/rhdevelopers)
 - [IBM Cloud](https://twitter.com/IBMcloud)
-- [Learnk8s](https://twitter.com/learnk8s)
+- [Learnk8s](https://twitter.com/learnk8s):star:
 - [Kunernaust/IO](https://twitter.com/kubernauts)
 - [Kelsey Hightower](https://twitter.com/kelseyhightower)
 - [CivoCloud](https://twitter.com/CivoCloud)
