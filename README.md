@@ -72,7 +72,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [Node.js](https://twitter.com/nodejs)
 - [Niklas Heidloff](https://twitter.com/nheidloff)
 - [Steve Speicher](https://twitter.com/sspeiche)
-- [Darren Shepherd](https://twitter.com/ibuildthecloud]
+- [Darren Shepherd](https://twitter.com/ibuildthecloud)
 
 
 
