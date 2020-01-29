@@ -33,6 +33,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [CNCF Secury Day 0 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2MGKo_LNRA-lhxlNXwiDJDT)
 
 **Books**
+> Currently IBMers have free access to books and other resources on learning.oreilly.com
 - [Mastering Distributing Tracing](https://learning.oreilly.com/library/view/mastering-distributed-tracing/9781788628464/)
 - [Software Engineering at Google (Feb 2020)](https://learning.oreilly.com/library/view/software-engineering-at/9781492082781)
 - [Kubernetes Operators (Jan 2020)](https://learning.oreilly.com/library/view/kubernetes-operators/9781492078234/)
