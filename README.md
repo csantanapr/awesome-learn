@@ -21,6 +21,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [The changelog (Open Source)](https://changelog.com/podcast)
 - [Go Time (Golang)](https://changelog.com/gotime)
 - [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
+- [Software Defined Talk](https://www.softwaredefinedtalk.com/)
 
 ## Youtube Channels/Playlists
 - [TGI Kubernetes (Every Friday 4PM EST)](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
@@ -31,6 +32,10 @@ Here are some of the reosures I use, I selected the top ones.
 - [CNCF EnvoyCon Summit 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2OQP0DXXmtdIHNtfFSJqVAU)
 - [CNCF Observability Summit 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2OHQTTN_SjId-oFcQWag5lW)
 - [CNCF Secury Day 0 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2MGKo_LNRA-lhxlNXwiDJDT)
+- [GOTO Conferences - Software Architecture](https://www.youtube.com/playlist?list=PLEx5khR4g7PJELLTYwXZHcimWAwTUaWGA)
+- [GOTO Conferences - Microservices](https://www.youtube.com/playlist?list=PLEx5khR4g7PIEfXSB9bDS4lB-J9stOynD)
+- [GOTO Conferences - DevOps](https://www.youtube.com/playlist?list=PLEx5khR4g7PLCoWS5k9u2WQ8RdKqhKEKn)
+- [GOTO Conferences - The Human Factor](https://www.youtube.com/playlist?list=PLEx5khR4g7PJquVHXtkcdo-QzK54bfmY9)
 
 ## Books
 > Currently IBMers have free access to books and other resources on learning.oreilly.com
