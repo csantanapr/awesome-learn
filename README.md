@@ -44,7 +44,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [Kubernetes Operators (Jan 2020)](https://learning.oreilly.com/library/view/kubernetes-operators/9781492078234/)
 - [Kubernetes Best Practices (Nov 2019)](https://learning.oreilly.com/library/view/kubernetes-best-practices/9781492056461/):star:
 - [Kubernetes Up and Running, 2nd Edition (Oct 2019)](https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523/)
-- [Cloud Native](https://learning.oreilly.com/library/view/cloud-native/9781492053811/)
+- [Cloud Native (Aug 2019)](https://learning.oreilly.com/library/view/cloud-native/9781492053811/)
 - [Programming Kubernetes (Jul 2019)](https://learning.oreilly.com/library/view/programming-kubernetes/9781492047094/)
 - [Kubernetes Patterns (Apr 2019)](https://learning.oreilly.com/library/view/kubernetes-patterns/9781492050278/)
 - [Cloud Native DevOps with Kubernetes (Mar 2019)](https://learning.oreilly.com/library/view/cloud-native-devops/9781492040750/)
