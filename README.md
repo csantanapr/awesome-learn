@@ -8,7 +8,7 @@ This days I work on Cloud-Native for the most part anything built with and on to
 
 Here are some of the reosures I use, I selected the top ones.
 
-**Podcasts**
+## Podcasts
 - [Kubernetes Podcast](https://kubernetespodcast.com/) :star:
 - [PodCTL](http://podcast.podctl.com/)
 - [AirHacks Java with Adam Bien](http://airhacks.fm/)
@@ -22,7 +22,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [Go Time (Golang)](https://changelog.com/gotime)
 - [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
 
-**Youtube Channels/Playlists**
+## Youtube Channels/Playlists
 - [TGI Kubernetes (Every Friday 4PM EST)](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
 - [Red Hat Developers](https://www.youtube.com/channel/UC7noUdfWp-ukXUlAsJnSm-Q/videos?view=0&sort=dd&flow=grid)
 - [OpenShift](https://www.youtube.com/user/rhopenshift/videos?view=0&sort=dd&flow=grid)
@@ -32,7 +32,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [CNCF Observability Summit 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2OHQTTN_SjId-oFcQWag5lW)
 - [CNCF Secury Day 0 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2MGKo_LNRA-lhxlNXwiDJDT)
 
-**Books**
+## Books
 > Currently IBMers have free access to books and other resources on learning.oreilly.com
 - [Mastering Distributing Tracing](https://learning.oreilly.com/library/view/mastering-distributed-tracing/9781788628464/)
 - [Software Engineering at Google (Feb 2020)](https://learning.oreilly.com/library/view/software-engineering-at/9781492082781)
@@ -44,7 +44,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [Kubernetes Patterns (Apr 2019)](https://learning.oreilly.com/library/view/kubernetes-patterns/9781492050278/)
 - [Cloud Native DevOps with Kubernetes (Mar 2019)](https://learning.oreilly.com/library/view/cloud-native-devops/9781492040750/)
 
-**News Letters**
+## News Letters
 - [KubeWeekly newsletter](https://kubeweekly.io/):star:
 - [Software Engineering Daily](https://us12.campaign-archive.com/home/?u=0e61a764c5cf33d9f3eff0749&id=846fac531b)
 - [Adam Bien](http://airhacks.news/)
@@ -52,7 +52,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [Off-by-one](https://www.jeremydaly.com/newsletter/)
 - [Last Week in AWS](https://www.lastweekinaws.com/)
 
-**Twitter**
+## Twitter
 - [Carlos](https://twitter.com/csantanapr)
 - [OpenShift](https://twitter.com/openshift)
 - [Red Hat Developers](https://twitter.com/rhdevelopers)
