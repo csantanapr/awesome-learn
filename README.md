@@ -8,6 +8,9 @@ This days I work on Cloud-Native for the most part anything built with and on to
 
 Here are some of the reosures I use, I selected the top ones.
 
+## Curated Resources
+- [Kubernauts Mega Learning Spreadsheet](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU)
+
 ## Podcasts
 - [Kubernetes Podcast](https://kubernetespodcast.com/) :star:
 - [PodCTL](http://podcast.podctl.com/)
