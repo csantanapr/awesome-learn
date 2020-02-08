@@ -62,7 +62,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [Last Week in AWS](https://www.lastweekinaws.com/)
 
 ## Twitter
-- [Carlos](https://twitter.com/csantanapr)
+- [Carlos Santana](https://twitter.com/csantanapr)
 - [OpenShift](https://twitter.com/openshift)
 - [Red Hat Developers](https://twitter.com/rhdevelopers)
 - [IBM Cloud](https://twitter.com/IBMcloud)
