@@ -32,7 +32,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [Red Hat Developers](https://www.youtube.com/channel/UC7noUdfWp-ukXUlAsJnSm-Q/videos?view=0&sort=dd&flow=grid)
 - [OpenShift](https://www.youtube.com/user/rhopenshift/videos?view=0&sort=dd&flow=grid)
 - [CNCF KubeCon 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien):star:
-- [CNCF Servless Summit 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2OQP0DXXmtdIHNtfFSJqVAU)
+- [CNCF Serverless Summit 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2OQP0DXXmtdIHNtfFSJqVAU)
 - [CNCF EnvoyCon Summit 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2OQP0DXXmtdIHNtfFSJqVAU)
 - [CNCF Observability Summit 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2OHQTTN_SjId-oFcQWag5lW)
 - [CNCF Secury Day 0 2019 NA](https://www.youtube.com/playlist?list=PLj6h78yzYM2MGKo_LNRA-lhxlNXwiDJDT)
@@ -60,6 +60,7 @@ Here are some of the reosures I use, I selected the top ones.
 - [Serverless.Email](https://serverless.email/)
 - [Off-by-one](https://www.jeremydaly.com/newsletter/)
 - [Last Week in AWS](https://www.lastweekinaws.com/)
+- [DevOps'ish](https://devopsish.com/)
 
 ## Twitter
 - [Carlos Santana](https://twitter.com/csantanapr)
@@ -82,6 +83,5 @@ Here are some of the reosures I use, I selected the top ones.
 - [Niklas Heidloff](https://twitter.com/nheidloff)
 - [Steve Speicher](https://twitter.com/sspeiche)
 - [Darren Shepherd](https://twitter.com/ibuildthecloud)
-
-
+- [Chris Short](https://twitter.com/ChrisShort)
 
