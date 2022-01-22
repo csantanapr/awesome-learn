@@ -1,12 +1,11 @@
 # Carlos' Awesome list of Cloud Native learning resources.
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-I tend to use different channels to learn and keep current on the technology I work on.
-A few years ago I was deep into mobile app and web frontend development.
+I was deep into mobile and web front-end development a few years ago.
 
-This days I work on Cloud Native for the most part anything built with and on top of Kubernetes.
+These days, I work on Cloud Native, mostly anything built with and on top of Kubernetes.
 
-Here are some of the reosures I use, I selected the top ones with a :star:
+Here are some of the resources I use; I selected the top ones with a :star:
 
 ## Curated Resources
 - [Kubernauts Mega Learning Spreadsheet](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU)
@@ -99,8 +98,8 @@ Here are some of the reosures I use, I selected the top ones with a :star:
 
 ## Certification and Courses
 - [KCNA](https://training.linuxfoundation.org/training/kubernetes-and-cloud-native-essentials-lfs250-kubernetes-and-cloud-native-associate-kcna-exam-bundle/)
-- [CKA](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/)
 - [CKAD](https://kodekloud.com/courses/certified-kubernetes-application-developer-ckad/)
+- [CKA](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/) :star:
 - [CKS](https://www.udemy.com/course/certified-kubernetes-security-specialist/)
 - [AWS Cloud Practioner](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-certification-study-course-pass-the-exam/)
 
