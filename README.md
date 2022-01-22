@@ -60,6 +60,7 @@ Here are some of the reosures I use, I selected the top ones with a :star:
 - [GOTO Conferences - The Human Factor](https://www.youtube.com/playlist?list=PLEx5khR4g7PJquVHXtkcdo-QzK54bfmY9)
 
 ## Books
+- [Kubernetes Book Club](https://www.santana.dev/book-club)
 - [Production Kubernetes](https://www.oreilly.com/library/view/production-kubernetes/9781492092292/) :star:
 - [Mastering Distributing Tracing](https://learning.oreilly.com/library/view/mastering-distributed-tracing/9781788628464/)
 - [Software Engineering at Google](https://learning.oreilly.com/library/view/software-engineering-at/9781492082781)
