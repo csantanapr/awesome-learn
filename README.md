@@ -104,6 +104,12 @@ Here are some of the reosures I use, I selected the top ones with a :star:
 - [CKS](https://www.udemy.com/course/certified-kubernetes-security-specialist/)
 - [AWS Cloud Practioner](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-certification-study-course-pass-the-exam/)
 
+## Blogs
+- [Kubernetes Blog](https://kubernetes.io/blog/)
+- [Ivan Velichko](https://iximiuz.com/) :star:
+- [Alex Ellis](https://blog.alexellis.io/)
+- [William Lam Home Lab](https://williamlam.com/home-lab)
+
 ## Twitter
 - [Carlos Santana](https://twitter.com/csantanapr)
 - [Kelsey Hightower](https://twitter.com/kelseyhightower) :star:
@@ -140,5 +146,6 @@ Here are some of the reosures I use, I selected the top ones with a :star:
 - [Niklas Heidloff](https://twitter.com/nheidloff)
 - [Steve Speicher](https://twitter.com/sspeiche)
 - [Darren Shepherd](https://twitter.com/ibuildthecloud)
+
 
 
