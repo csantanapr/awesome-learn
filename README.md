@@ -119,6 +119,7 @@ Here are some of the reosures I use, I selected the top ones with a :star:
 - [Khalid Raad](https://twitter.com/khuolio)
 - [Eric Smalling](https://twitter.com/ericsmalling)
 - [zewu](https://twitter.com/sevikarakose)
+- [Philip Welz](https://twitter.com/philip_welz)
 - [Noel Georgi](https://twitter.com/noelgeorgi)
 - [Andrew Brown](https://twitter.com/andrewbrown)
 - [OpenShift](https://twitter.com/openshift)
