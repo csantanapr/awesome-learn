@@ -6,7 +6,7 @@ A few years ago I was deep into mobile app and web frontend development.
 
 This days I work on Cloud Native for the most part anything built with and on top of Kubernetes.
 
-Here are some of the reosures I use, I selected the top ones with a :star:
+Here are some of the resources I use, I selected the top ones with a :star:
 
 ## Curated Resources
 - [Kubernauts Mega Learning Spreadsheet](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU)
